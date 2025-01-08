@@ -1,0 +1,12 @@
+.advocateCell {
+    max-height: 200px;
+    overflow: auto;
+    border: 1px solid #265b4e;
+    color: #265b4e;
+}
+
+.advocateCellContent {
+    height: 200px;
+    overflow: auto;
+    padding: 10px;
+}
