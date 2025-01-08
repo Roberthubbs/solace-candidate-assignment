@@ -1,0 +1,17 @@
+.table {
+    width: 100%;
+    border-radius: 12px;
+    margin: 20px 0;
+
+    .tableHead {
+        border: 1px solid green;
+        border-radius: 12px;
+
+        .tableHeaderCell {
+            padding: 20px 10px;
+            border: 1px solid white;
+            background-color: #1d4339;
+            color: white;
+        }
+    }
+}
